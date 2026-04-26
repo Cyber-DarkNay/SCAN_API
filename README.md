@@ -1,5 +1,3 @@
-Siap, ini saya gabungkan jadi 1 README utuh (rapi, clean, langsung copy-paste):
-
 
 ---
 
@@ -34,8 +32,8 @@ Siap, ini saya gabungkan jadi 1 README utuh (rapi, clean, langsung copy-paste):
 ## 🚀 INSTALLATION
 
 ```bash
-git clone https://github.com/yourname/security-audit-scanner.git
-cd security-audit-scanner
+git clone https://github.com/Cyber-DarkNay/SCAN_API.git
+cd SCAN_API
 pip install requests beautifulsoup4
 ```
 
