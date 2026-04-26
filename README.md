@@ -5,14 +5,6 @@
 </p>
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SECURITY-AUDIT%20TOOL-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CYBER-DARKNAY-1f6feb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PYTHON-TOOL-yellow?style=for-the-badge"/>
-</p>
-
----
-
 # 🔍 WEB SECURITY AUDIT SCANNER
 
 > Lightweight security scanner for detecting exposed secrets, API keys, authentication tokens, and sensitive misconfigurations in web applications.
