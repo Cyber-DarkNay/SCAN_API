@@ -1,4 +1,8 @@
-
+<p align="center">
+  <img src="https://img.shields.io/badge/GITHUB-PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTHON-TOOL-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CYBER-DARKNAY-1f6feb?style=for-the-badge"/>
+</p>
 ---
 
 <p align="center">
